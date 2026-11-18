@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kitagawh!</string>
+    <string name="accessibility_label">Kitagawh Accessibility</string>
+    <string name="accessibility_description">Kitagawh uses accessibility to tap, scroll, open screens and take screenshots only when you ask it to, so it can carry out your voice commands on your phone.</string>
+    <string name="brand_face">-_-</string>
+</resources>
